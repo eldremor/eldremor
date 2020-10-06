@@ -1,4 +1,4 @@
-## Hello fellas 🤗
+## Hey fellas 🤗
 I don't really know how you got here, but I will try to show a little bit about myself for you.
 
 ## Public information
