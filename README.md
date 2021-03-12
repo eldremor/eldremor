@@ -7,6 +7,11 @@ My name is Carlos "Eldremor" Dorelli and I currently live in São Paulo, Brazil.
 On my free time, I create web-projects like @unturnedmania or @pcfraco which is basically where I improve my programming knowledge base and have fun.
 
 ## Detailed information
-* **Name**: Carlos Eldremor Dorelli
+* **Name**: Carlos "Eldremor" Dorelli
 * **Living in**: São Paulo, Brazil
 * **Stack**: PHP - HTML - Bootstrap - SQL - VB.NET
+
+## Projects
+* **TimberHost**: A gamehosting company with servers worldwide.
+* **UnturnedManian**: A Unturned Servers Network.
+* **PCFraco**: A website made to people with weak computers.
