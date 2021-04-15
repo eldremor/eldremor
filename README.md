@@ -14,4 +14,4 @@ On my free time, I create web-projects like @unturnedbrasil or @pcfraco which is
 ## Projects
 * **TimberHost**: A gamehosting company with servers worldwide. (https://timberhost.com.br)
 * **Unturned Brasil**: The biggest Unturned Commmunity in Brazil. (https://unturned.com.br)
-* **PCFraco**: A website made to people with weak computers. (https://pcfraco.com.br)
+* **PCFraco**: A website made to help people with weak computers. (https://pcfraco.com.br)
